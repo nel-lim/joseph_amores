@@ -1,3 +1,6 @@
+/*instructor john nel lim 
+for final hands-on exam*/
+
 :root
 {
 	--black: #333;
@@ -45,7 +48,7 @@ html
 
 header
 {
-	position: fixed;
+	position: ;
 	top: 0;
 	left: 0;
 	right: 0;
@@ -120,6 +123,9 @@ header .icons #menu
 /*navbar style end here*/
 
 
+/*instructor john nel lim 
+for final hands-on exam*/
+
 
 /*slider style start*/
 
@@ -191,7 +197,7 @@ header .icons #menu
 	cursor: pointer;
 	padding: .8rem 3rem;
 	position: relative;
-	overflow: hidden;
+	overflow: ;
 	z-index: 1;
 }
 
@@ -232,6 +238,9 @@ header .icons #menu
 /*slider style end*/
 
 
+
+/*instructor john nel lim 
+for final hands-on exam*/
 
 /*welcome style start*/
 
@@ -353,7 +362,7 @@ section
 
 .our-menu
 {
-	background: url(our-menu-bg-1.png) left top no-repeat, url(our-menu-bg-3.jpg);
+	background: url(/our-menu-bg-1.png) left top no-repeat, url(our-menu-bg-3.jpg);
 
 }
 
@@ -552,6 +561,8 @@ section
 
 
 
+/*instructor john nel lim 
+for final hands-on exam*/
 
 /*reservation style start*/
 .reservation
@@ -955,3 +966,7 @@ section
 		display: block;
 	}
 } 
+
+
+/*instructor john nel lim 
+for final hands-on exam*/
